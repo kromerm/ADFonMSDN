@@ -1,0 +1,15 @@
+{
+	"name": "WestUSADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3aa43d8-618d-42a4-a7fa-88209e64174f",
+		"tenantId": "b3273975-61bb-4d27-9cb1-4df0bb8a0018"
+	}
+}
